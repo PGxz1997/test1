@@ -4,5 +4,6 @@ public class GitTest {
         String str2="World!";
         String result=str1+str2;
         System.out.println(result);
+        System.out.println("master test");
     }
 }
